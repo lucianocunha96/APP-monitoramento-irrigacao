@@ -6,11 +6,9 @@ const ListItem = ({ status, timestamp }) => {
 
   return (
     <View style={[styles.container, isOn ? styles.on : styles.off]}>
-      {/* Tag na parte superior */}
       <Text style={[styles.tag, isOn ? styles.onTag : styles.offTag]}>
         {isOn ? 'Irrigação ligada' : 'Irrigação desligada'}
       </Text>
-      {/* Texto da data na parte inferior */}
       <Text style={styles.text}>
         {`Sistema ${isOn ? 'ligado' : 'desligado'} em ${timestamp}`}
       </Text>
