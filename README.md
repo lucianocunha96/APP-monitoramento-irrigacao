@@ -21,10 +21,10 @@ Este é um aplicativo desenvolvido com React Native para monitorar o funcionamen
    - Xcode: Emulador e configuração de ambiente para iOS.
 
 # 📦 Estrutura do Projeto
-** src/components: ** Componentes reutilizáveis (ex: ListItem, Header, Footer).
-** src/screens: ** Telas principais do aplicativo (ex: HomeScreen).
-** src/services: ** Integração com a API.
-** assets: ** Recursos estáticos, como imagens e ícones.
+**src/components:** Componentes reutilizáveis (ex: ListItem, Header, Footer).  
+**src/screens:** Telas principais do aplicativo (ex: HomeScreen).  
+**src/services:** Integração com a API.  
+**assets:** Recursos estáticos, como imagens e ícones.  
 
 # 🔧 Configuração do Ambiente
 
