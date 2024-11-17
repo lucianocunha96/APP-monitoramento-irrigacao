@@ -1,0 +1,1 @@
+/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/build/intermediates/cxx/Debug/6o17396m/obj/x86_64

@@ -1,0 +1,58 @@
+# Diretórios de dependências
+node_modules/
+ios/Pods/
+vendor/
+
+# Arquivos de build
+android/.gradle/
+android/app/build/
+ios/build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache do Metro Bundler
+.expo/
+.expo-shared/
+.expo-settings/
+.expo-source-map/
+.expo-source-maps/
+.reproducible-debug-log.json
+
+# Configurações de editor
+.idea/
+.vscode/
+*.swp
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Cache do Watchman
+.watchmanconfig
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações específicas do Xcode
+ios/DerivedData/
+xcuserdata/
+
+# Configurações de build específicas da plataforma
+*.apk
+*.ipa
+
+# Cache do Lint/Formatter
+eslintcache
+.prettiercache
+
+# Configurações do ambiente
+.env
+.env.*
+
+# Outras configurações específicas do projeto
+cocoapods.lock
+package-lock.json

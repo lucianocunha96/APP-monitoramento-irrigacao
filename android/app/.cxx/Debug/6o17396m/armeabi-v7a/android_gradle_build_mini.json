@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "/Users/lucia/Documentos/dev/react-native/irrigacao/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/lucia/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/.cxx/Debug/6o17396m/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/lucia/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/.cxx/Debug/6o17396m/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "armeabi-v7a",
+      "output": "/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/build/intermediates/cxx/Debug/6o17396m/obj/armeabi-v7a/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/lucia/.gradle/caches/8.10.2/transforms/f58eb0422ef4aa39ff528dd0a71b1a55/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.armeabi-v7a/libfbjni.so",
+        "/Users/lucia/.gradle/caches/8.10.2/transforms/cff664391a982c3d40b0a31910250370/transformed/react-android-0.76.2-debug/prefab/modules/jsi/libs/android.armeabi-v7a/libjsi.so",
+        "/Users/lucia/.gradle/caches/8.10.2/transforms/cff664391a982c3d40b0a31910250370/transformed/react-android-0.76.2-debug/prefab/modules/reactnative/libs/android.armeabi-v7a/libreactnative.so"
+      ]
+    }
+  }
+}

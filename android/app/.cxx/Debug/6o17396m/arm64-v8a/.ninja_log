@@ -1,0 +1,12 @@
+# ninja log v5
+0	50	0	/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/.cxx/Debug/6o17396m/arm64-v8a/CMakeFiles/cmake.verify_globs	b3339afe82984271
+1	4177	1731798682792957397	CMakeFiles/appmodules.dir/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ab0fbad0ff4800ee
+1	4635	1731798683241955390	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d02fbe3a61123d47
+4636	4961	1731798683583262348	/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/build/intermediates/cxx/Debug/6o17396m/obj/arm64-v8a/libappmodules.so	c96e060188e41852
+0	26	0	/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/.cxx/Debug/6o17396m/arm64-v8a/CMakeFiles/cmake.verify_globs	b3339afe82984271
+0	32	0	/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/.cxx/Debug/6o17396m/arm64-v8a/CMakeFiles/cmake.verify_globs	b3339afe82984271
+0	27	0	/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/.cxx/Debug/6o17396m/arm64-v8a/CMakeFiles/cmake.verify_globs	b3339afe82984271
+0	42	0	/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/.cxx/Debug/6o17396m/arm64-v8a/CMakeFiles/cmake.verify_globs	b3339afe82984271
+0	27	0	/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/.cxx/Debug/6o17396m/arm64-v8a/CMakeFiles/cmake.verify_globs	b3339afe82984271
+0	33	0	/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/.cxx/Debug/6o17396m/arm64-v8a/CMakeFiles/cmake.verify_globs	b3339afe82984271
+11	69	0	/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/.cxx/Debug/6o17396m/arm64-v8a/CMakeFiles/cmake.verify_globs	b3339afe82984271

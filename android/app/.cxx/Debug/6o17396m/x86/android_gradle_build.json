@@ -1,0 +1,42 @@
+{
+  "buildFiles": [
+    "/Users/lucia/Documentos/dev/react-native/irrigacao/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/lucia/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/.cxx/Debug/6o17396m/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/lucia/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/.cxx/Debug/6o17396m/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "appmodules",
+      "output": "/Users/lucia/Documentos/dev/react-native/irrigacao/android/app/build/intermediates/cxx/Debug/6o17396m/obj/x86/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/lucia/.gradle/caches/8.10.2/transforms/f58eb0422ef4aa39ff528dd0a71b1a55/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/lucia/.gradle/caches/8.10.2/transforms/cff664391a982c3d40b0a31910250370/transformed/react-android-0.76.2-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/lucia/.gradle/caches/8.10.2/transforms/cff664391a982c3d40b0a31910250370/transformed/react-android-0.76.2-debug/prefab/modules/reactnative/libs/android.x86/libreactnative.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/lucia/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/lucia/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
